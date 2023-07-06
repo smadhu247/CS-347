@@ -1,2 +1,3 @@
 # CS-347
-Course work from CS 347
+
+Final project for CS 347: Software Development Process 
